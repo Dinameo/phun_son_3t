@@ -1,0 +1,8 @@
+path: /mnt/d/RB3T/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: canh
+  1: tui
